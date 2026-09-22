@@ -1,0 +1,4 @@
+safestack_*
+__safestack_*
+__subsan_*
+__hwasan_shadow_memory_dynamic_address
