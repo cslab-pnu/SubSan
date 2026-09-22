@@ -2,7 +2,7 @@
 
 SubSan: Efficient Memory Error Detection via Subtraction Checks.
 
-This is the artifact repository of our paper will be presented at the ACM SIGOPS Annual Technical Conference 2026 (ATC '26).
+This is the artifact of our paper will be presented at the ACM SIGOPS Annual Technical Conference 2026 (ATC '26).
 
 ## Tested Environments
 
